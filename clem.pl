@@ -1,13 +1,5 @@
 #!/usr/bin/env perl
 
-#
-# 2013 SGNLS.net 
-#
-# Based on code by Aaron Lewis
-# Standard GPLv2 license
-# Redistribution allowed
-#
-
 use warnings;
 use strict;
 
